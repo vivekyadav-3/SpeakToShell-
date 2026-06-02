@@ -2,6 +2,8 @@
 
 > Let your terminal understand plain English. Translate natural language into optimized, OS-aware shell commands in seconds using NVIDIA NIM API.
 
+![SpeakToShell Demo](assets/demo.png)
+
 ---
 
 ## 🌟 Features
